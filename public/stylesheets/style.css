@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.cont {
+  height: 150px;
+}
+
+.uc {
+  display: inline-block;
+  height: 100%;
+  width: auto;
+}
+
+.uc-text {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: -125px;
+  margin-left: 20px;
+}
